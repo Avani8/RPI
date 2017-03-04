@@ -1,6 +1,6 @@
 
 
-Steps tO install Opencv3.1.0 on rpi3 
+Steps to install Opencv3.1.0 on rpi3 
 ====================================
 use the github : https://gist.github.com/willprice/c216fcbeba8d14ad1138
 download the install.sh script and run it (wait for good 2-3 hours and then you are done)
